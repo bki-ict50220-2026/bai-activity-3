@@ -49,4 +49,4 @@ console.log(asObject.city); // "Melbourne"
 
 **Previous:** [What is JSON?](08-what-is-json.md)
 
-**Next:** [Objects vs. JSON and Summary](10-objects-vs-json-summary.md)
+**Next:** [Local Storage (Add, Update, Delete)](10-local-storage.md)
